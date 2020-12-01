@@ -1,2 +1,2 @@
-# Front-End-Web-Development-with-React-master_Coursera
-Project for Front-End-Web-Development-with-React-master on coursera
+# Front-End-Web-Development-with-React
+Front-End Web Development with React Course on Coursera Assignment
